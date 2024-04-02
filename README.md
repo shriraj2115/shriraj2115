@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shriraj2115
 - 👀 I’m interested in Web Development,Competitive Coding, AI,ML & DL.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email: shri215naik@gmail.com
 - 😄 Pronouns: He/Him
